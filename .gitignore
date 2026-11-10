@@ -1,0 +1,4 @@
+build/
+AppIcon.iconset/
+*.icon/
+.DS_Store
