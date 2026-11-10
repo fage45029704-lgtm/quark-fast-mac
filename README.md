@@ -32,7 +32,7 @@ macOS 原生小应用（SwiftUI），用来把**你自己夸克网盘**里的文
 或者自己编译（需要 Xcode Command Line Tools，`xcode-select --install`）：
 
 ```bash
-git clone https://github.com/<YOUR_NAME>/quark-fast-mac.git
+git clone https://github.com/fage45029704-lgtm/quark-fast-mac.git
 cd quark-fast-mac
 ./build.sh                 # 产出 build/QuarkFast.app
 cp -R build/QuarkFast.app /Applications/
